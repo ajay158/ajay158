@@ -9,10 +9,21 @@
 
 ### Connect with me:
 
-[<img align="left" alt=" ajay158 | YouTube" width="22px" src="https://www.youtube.com/channel/UCw3zL-kERj3zerZIG09walg/youtube.svg" />][youtube]
-[<img align="left" alt="ajay158 | Twitter" width="22px" src="https://twitter.com/AjayKumarShahu8/twitter.svg" />][twitter]
-[<img align="left" alt="ajay158 | LinkedIn" width="22px" src="https://www.linkedin.com/in/ajay-kumar-shahu-462059209//linkedin.svg" />][linkedin]
-[<img align="left" alt="ajay158 | Instagram" width="22px" src="https://www.instagram.com/a_j_a_y_s_h_a_h_64//instagram.svg" />][instagram]
+<a href="https://twitter.com/Mantosh_55">
+  <img align="left" alt="Mantu's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/mantosh-sah-3a421b1b7/">
+  <img align="left" alt="Mantu's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/mantu1738">
+  <img align="left" alt="Mantu's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://www.instagram.com/mantosh_aryan12/">
+  <img align="left" alt="Mantu's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.facebook.com/mantosh.aryan/">
+  <img align="left" alt="Mantu's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
 
 <br />
 
