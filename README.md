@@ -9,20 +9,20 @@
 
 ### Connect with me:
 
-<a href="https://twitter.com/Mantosh_55">
-  <img align="left" alt="Mantu's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a href="https://twitter.com/AjayKumarShahu8">
+  <img align="left" alt="Ajay's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/mantosh-sah-3a421b1b7/">
-  <img align="left" alt="Mantu's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/ajay-kumar-shahu-462059209/">
+  <img align="left" alt="Ajay's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/mantu1738">
-  <img align="left" alt="Mantu's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+<a href="https://www.instagram.com/a_j_a_y_s_h_a_h_64/">
+  <img align="left" alt="Ajay's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.instagram.com/mantosh_aryan12/">
-  <img align="left" alt="Mantu's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://www.facebook.com/Ajay-Kumar-Shahu-102541401969921/">
+  <img align="left" alt="Ajay's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a href="https://www.facebook.com/mantosh.aryan/">
-  <img align="left" alt="Mantu's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+<a href="https://www.youtube.com/channel/UCw3zL-kERj3zerZIG09walg">
+  <img align="left" alt="Ajay's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 
 <br />
