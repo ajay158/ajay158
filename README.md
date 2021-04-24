@@ -35,6 +35,17 @@
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
+<br />
+<br />
+
+<a href="https://github.com/mantu1738">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajay158&theme=light&hide_langs_below=1" />
+</a>
+
+
+<a href="https://github.com/mantu1738">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=ajay158&show_icons=true&theme=light&line_height=27" alt="Mantu''s github stats"/>
+</a>
 
 <br />
 <br />
