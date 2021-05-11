@@ -54,7 +54,7 @@
 
 ### 📺 Latest YouTube Videos
 
-- [Registration Form (HTML, CSS)](https://www.youtube.com/watch?v=b6ydaNyTHKw&t=1s&ab_channel=AjayKumarShahu)
+- [A Beautiful Resort (HTML, CSS)](https://www.youtube.com/watch?v=sraPyMan82s)
 ➡️ [more videos...](https://www.youtube.com/channel/UCw3zL-kERj3zerZIG09walg)
 
 ---
