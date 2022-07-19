@@ -1,5 +1,5 @@
 ### Hello, I`m Ajay kumar shahu👋
-## I'm a Developer and Youtuber!!
+## I'm a Developer!!
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
