@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Node.js**
 
-- 👨‍💻 All of my projects are available at [www.ajaykumarshahu.com](www.ajaykumarshahu.com)
+- 👨‍💻 All of my projects are available at [www.ajaykumarshahu.com](https://ajaykumarshahuportfolio.netlify.app)
 
 - 💬 Ask me about **HTML, CSS, JS, REACTJS, PHP, MYSQL.**
 
